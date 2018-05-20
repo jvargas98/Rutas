@@ -1,0 +1,10 @@
+C:\Users\alexb\source\repos\Rutas\Rutas\bin\Debug\Rutas.exe.config
+C:\Users\alexb\source\repos\Rutas\Rutas\bin\Debug\Rutas.exe
+C:\Users\alexb\source\repos\Rutas\Rutas\bin\Debug\Rutas.pdb
+C:\Users\alexb\source\repos\Rutas\Rutas\obj\Debug\Rutas.Form1.resources
+C:\Users\alexb\source\repos\Rutas\Rutas\obj\Debug\Rutas.Properties.Resources.resources
+C:\Users\alexb\source\repos\Rutas\Rutas\obj\Debug\Rutas.csproj.GenerateResource.Cache
+C:\Users\alexb\source\repos\Rutas\Rutas\obj\Debug\Rutas.csproj.CoreCompileInputs.cache
+C:\Users\alexb\source\repos\Rutas\Rutas\obj\Debug\Rutas.exe
+C:\Users\alexb\source\repos\Rutas\Rutas\obj\Debug\Rutas.pdb
+C:\Users\alexb\source\repos\Rutas\Rutas\obj\Debug\Rutas.csprojResolveAssemblyReference.cache
